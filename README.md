@@ -25,7 +25,7 @@
 ---
 
 ## Estructura del proyecto
-
+````text
 practica_4_
 ├── cpp_client
 │   ├── include
@@ -37,7 +37,7 @@ practica_4_
 │   └── images
 │
 └── tactile_captures_50.json
-
+````
 
 ## Funcionamiento del sistema
 
